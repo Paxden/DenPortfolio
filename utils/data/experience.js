@@ -26,7 +26,7 @@ export const experiences = [
   {
     id: 5,
     title: "Exam Manager",
-    company: "Health Record Officers Registration Board of Nigeria (HRORC)",
+    company: "Health Record Officers Registration Board of Nigeria (HROBN)",
     duration: "(OCT 2024 - Present)"
   },
 ]
