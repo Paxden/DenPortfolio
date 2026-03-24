@@ -95,7 +95,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "http://quanby.com.ng/",
+    demo: "https://harmonious-narwhal-88342a.netlify.app/",
   },
   {
     id: 6,
@@ -145,7 +145,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://sensational-eclair-4e9159.netlify.app/",
+    demo: "https://lucky-taffy-6259d5.netlify.app/",
   },
 ];
 
