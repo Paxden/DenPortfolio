@@ -95,7 +95,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://app.netlify.com/projects/zippy-florentine-7db488/",
+    demo: "http://quanby.com.ng/",
   },
   {
     id: 6,
@@ -105,7 +105,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://app.netlify.com/projects/stunning-haupia-9a2ce1/",
+    demo: "https://stunning-haupia-9a2ce1.netlify.app/",
   },
   {
     id: 7,
@@ -115,7 +115,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://app.netlify.com/projects/kaleidoscopic-daffodil-503ee8/",
+    demo: "https://kaleidoscopic-daffodil-503ee8.netlify.app/",
   },
   {
     id: 8,
@@ -125,7 +125,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://app.netlify.com/projects/delightful-froyo-ef1ced/",
+    demo: "https://delightful-froyo-ef1ced.netlify.app/",
   },
   {
     id: 9,
@@ -135,7 +135,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://app.netlify.com/projects/stellar-nougat-720f52/",
+    demo: "https://stellar-nougat-720f52.netlify.app/",
   },
   {
     id: 10,
@@ -145,7 +145,7 @@ export const projectsData = [
     tools: ["React Js", "Bootstrap"],
     role: "Frontend Developer (Solo)",
     code: "",
-    demo: "https://app.netlify.com/projects/lucky-taffy-6259d5/",
+    demo: "https://sensational-eclair-4e9159.netlify.app/",
   },
 ];
 
