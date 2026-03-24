@@ -7,6 +7,12 @@ export const educations = [
   },
   {
     id: 2,
+    title: "Web Development Certificate",
+    duration: "2021 - 2023",
+    institution: "BuggyBillions",
+  },
+  {
+    id: 3,
     title: "Senior Secondary Certificate",
     duration: "2016 - 2019",
     institution: "ADS Comprehensive College",

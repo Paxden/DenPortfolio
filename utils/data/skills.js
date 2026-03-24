@@ -4,19 +4,20 @@ export const skillsData = [
   'Javascript',
   'Typescript',
   'React',
+  'React Native',
+  'Flutter',
+  'Node JS',
+  'Express',
   'Next JS',
   'Tailwind',
   'MongoDB',
   'MySQL',
-  'PostgreSQL',
   'Git',
   'AWS',
   'Bootstrap',
-  'Docker',
   'Figma',
   'Firebase',
   'MaterialUI',
-  'Nginx',
   'Strapi'
 ]
 

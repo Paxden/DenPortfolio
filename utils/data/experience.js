@@ -16,5 +16,17 @@ export const experiences = [
     title: "Internship Trainee",
     company: "BuggyBillions",
     duration: "(Nov 2022 - Oct 2023)"
-  }
+  },
+    {
+    id: 4,
+    title: "Exam Manager",
+    company: "Nursing and Midwifery Council of Nigeria (NMCN)",
+    duration: "(SEPT 2024 - Present)"
+  },
+  {
+    id: 5,
+    title: "Exam Manager",
+    company: "Health Record Officers Registration Board of Nigeria (HRORC)",
+    duration: "(OCT 2024 - Present)"
+  },
 ]
